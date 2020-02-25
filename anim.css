@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right top, #ffffff, #fdf5fc, #ffeaf1, #ffe0dc, #ffd9c3);
+    font-family: 'Merriweather';
+}
+#art1 {
+    border: 1px solid #EEA0A0; 
+    border-radius: 10px; 
+}
+#art2 {
+    border: 1px solid #428DBF; 
+    border-radius: 10px; 
+}
